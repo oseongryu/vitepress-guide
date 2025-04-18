@@ -1,4 +1,4 @@
-docs/environment
+docs/page_environment
 
 /coverage
 /src/client/shared.ts

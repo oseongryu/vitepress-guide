@@ -8,15 +8,16 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      // { text: 'Examples', link: '/examples/markdown-examples' },
+      { text: '환경설정', link: '/page_environment/01-environment-mac-m1-hy' }
     ],
 
     sidebar: [
       {
         text: '📋 환경설정 (Mac M1)',
         items: [
-          { text: '- A. 어플리케이션', link: '/environment/01-environment-mac-m1-hy' },
-          { text: '- B. 프로젝트 환경설정', link: '/environment/02-environment-mac-m1-hy' }
+          { text: '- A. 어플리케이션', link: '/page_environment/01-environment-mac-m1-hy' },
+          { text: '- B. 프로젝트 환경설정', link: '/page_environment/02-environment-mac-m1-hy' }
         ]
       },
       {
