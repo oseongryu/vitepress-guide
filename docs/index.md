@@ -46,13 +46,19 @@ const members = [
       { icon: 'github', link: 'https://github.com/reifier92' }
     ]
   },
+  // {
+  //   avatar: 'https://www.github.com/oseongryu.png',
+  //   name: 'oseongryu',
+  //   title: '',
+  //   links: [
+  //     { icon: 'github', link: 'https://github.com/oseongryu' }
+  //   ]
+  // },
   {
-    avatar: 'https://www.github.com/oseongryu.png',
-    name: 'oseongryu',
-    title: 'Backend',
-    links: [
-      { icon: 'github', link: 'https://github.com/oseongryu' }
-    ]
+    avatar: '',
+    name: '',
+    title: '',
+    links: []
   },
   {
     avatar: '',
@@ -60,7 +66,18 @@ const members = [
     title: '',
     links: []
   },
-  
+  // {
+  //   avatar: '',
+  //   name: '',
+  //   title: '',
+  //   links: []
+  // },
+  // {
+  //   avatar: '',
+  //   name: '',
+  //   title: '',
+  //   links: []
+  // },  
 ]
 </script>
 
