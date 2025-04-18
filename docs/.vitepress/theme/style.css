@@ -137,3 +137,9 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+/* personal setting */
+.img-border {
+  display: flex;
+  border: 0.1rem solid #083068;
+  margin-top: 1rem;
+}
